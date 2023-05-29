@@ -9,3 +9,6 @@ This project is deployed in vercel [Create React App](https://fgherini.com).
 - Sass
 - Node
 - npm 
+- Leaftlet
+- Email js
+
