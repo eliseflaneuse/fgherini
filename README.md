@@ -25,6 +25,8 @@ This project is deployed in vercel [Create React App](https://fgherini.com).
 | Fortawesome Brands SVG Icons| npm i @fortawesome/free-brands-svg-icons | 
 | Fortawesome Solid SVG Icons | npm i @fortawesome/free-solid-svg-icons | 
 | Fortawesome Brands SVG Icons| npm i @fortawesome/free-brands-svg-icons | 
-
+| Loaders | npm i --save-dev loaders.css   |   
+|  |    | 
+|   |   |  
    
 
