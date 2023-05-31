@@ -11,7 +11,9 @@ This project is deployed in vercel [Create React App](https://fgherini.com).
 - npm 
 - Leaftlet
 - Email js
-- 
+- Font Awesome 
+- Loaders.css
+- Animate.css
 
 | Tables        | npm          | 
 | ------------- |:-------------:| 
@@ -28,5 +30,5 @@ This project is deployed in vercel [Create React App](https://fgherini.com).
 | Loaders | npm i --save-dev loaders.css   |   
 | animate.css | npm i animate.css | 
 
-   
+### Next version = Responsive Design.
 
