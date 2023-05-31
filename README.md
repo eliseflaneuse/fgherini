@@ -1,6 +1,6 @@
 # Fernando Gherini Portfolio 
 
-This project is deployed in vercel [fgherini.com](https://fgherini.com).
+This project is deployed in vercel in [fgherini.com](https://fgherini.com).
 
 ## Second version
 
